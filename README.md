@@ -4,7 +4,7 @@ Hi 👋 My name is Durga Prasad
 Application Developer
 ---------------------
 
-I have been in IT industry for more than 2 years. Experienced in kotlin, java, javascript, reactjs, springboot, springreact, reactor, mongodb etc.
+I have been in IT industry for more than 4 years. Experienced in kotlin, java, javascript, reactjs, springboot, springreact, reactor, mongodb etc.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [@gmail.com](mailto:dasaridurgaprasad1999@gmail.com)
